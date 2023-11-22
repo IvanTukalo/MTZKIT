@@ -5,7 +5,7 @@ class Program
 {
     static int CalcCNonRec(int m, int n)
     {
-        // Виклик функції для обчислення факторіалу
+        // Виклик функції для обчислення факторіалу да апчхі
         int numerator = CalcFactorial(m);
 
         // Виклик функції для обчислення факторіалу
